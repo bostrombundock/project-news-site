@@ -1,1 +1,1 @@
-# project-news-site https://stoic-knuth-482207.netlify.app/
+https://nostalgic-heyrovsky-64cbb8.netlify.app/
